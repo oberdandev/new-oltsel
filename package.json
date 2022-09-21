@@ -4,7 +4,9 @@
   "description": "OLTESL - ADS SOLAR",
   "main": "index.js",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+  "start": "index.js"
+  },
   "author": "OBI & ROB",
   "license": "ISC",
   "dependencies": {
